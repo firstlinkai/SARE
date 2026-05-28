@@ -21,6 +21,15 @@ Unlike generic AI reporting tools, SARE is built with an industrial engineering 
 - **Strategic Narrator:** Uses AI to identify trends and explain the "why" behind the numbers.
 - **Custom Branding:** Professional PDF templates that align with your agency's visual identity.
 
+- ## Screenshots
+<img width="1563" height="873" alt="image" src="https://github.com/user-attachments/assets/1d8424e3-1010-4d97-841b-de7ea7367fc1" />
+
+<img width="1542" height="873" alt="image" src="https://github.com/user-attachments/assets/cd3637a8-e530-4605-9fff-93992830711c" />
+
+- ## Sample Report
+<img width="1792" height="2400" alt="Ads_Performance_Audit" src="https://github.com/user-attachments/assets/afd3df3f-7fd1-4b60-9218-3b7736f61f44" />
+
+
 ## Getting Started
 *(Documentation for local setup and deployment coming soon.)*
 
